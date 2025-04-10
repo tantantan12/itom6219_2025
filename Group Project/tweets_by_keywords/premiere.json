@@ -1,0 +1,656 @@
+{
+    "data": [
+        {
+            "author_id": "1456316081291730980",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278918179078277"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1774804602829090816",
+                        "start": 3,
+                        "username": "DICON_ENHYPEN"
+                    }
+                ]
+            },
+            "id": "1777278918179078277",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3507
+            },
+            "text": "RT @DICON_ENHYPEN: \"\uc2a4\ubb3c, \uadf8 \ucc2c\ub780\ud55c \ucc30\ub098\"\u2026\uc5d4\ud558\uc774\ud508, '\ub514\uc544\uc774\ucf58'\uc758 \uccad\ucd98\n\n\ud83d\udd17https://t.co/NAouX25RQ9\n\n\ud83d\uddd3\ufe0f \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd2.\ud835\udfce\ud835\udfd2.\ud835\udfce\ud835\udfd6(\ud835\udc0f\ud835\udc0c \ud835\udfd0:\ud835\udfce\ud835\udfce) - \ud835\udfd0\ud835\udfce\ud835\udfd0\ud835\udfd2.\ud835\udfce\ud835\udfd2.\ud835\udfcf\ud835\udfd6(\ud835\udc0f\ud835\udc0c \ud835\udfd0\ud835\udfd1:\ud835\udfd3\ud835\udfd7)\n\n#\uc5d4\ud558\uc774\ud508 #ENHYPEN\u2026"
+        },
+        {
+            "author_id": "1455632137",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278918174593322"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "1400461557272748034",
+                        "start": 3,
+                        "username": "CrazyMemes100"
+                    },
+                    {
+                        "end": 29,
+                        "id": "3096147528",
+                        "start": 19,
+                        "username": "dom_lucre"
+                    }
+                ]
+            },
+            "id": "1777278918174593322",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 265
+            },
+            "text": "RT @CrazyMemes100: @dom_lucre Remember when Fox News aired this Denzel Washington clip, \u201cDon\u2019t be misinformed, too much information isn\u2019t g\u2026"
+        },
+        {
+            "author_id": "1631932859677315073",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917998748096"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1311951450918928384",
+                        "start": 3,
+                        "username": "iksanpjw"
+                    }
+                ]
+            },
+            "id": "1777278917998748096",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 401
+            },
+            "text": "RT @iksanpjw: Park Jeongwoo\u2019s new hair \ud83e\udd79\ud83e\udd0d #\ubc15\uc815\uc6b0 \n\n\ud83d\udd87\ufe0f https://t.co/m4cqVSI2rQ\n\ud83d\udd87\ufe0f https://t.co/ZfAWcwZYgP https://t.co/iun0yqsU33"
+        },
+        {
+            "author_id": "1491616871883640843",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917981958596"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "88846085",
+                        "start": 3,
+                        "username": "YahooNewsTopics"
+                    }
+                ]
+            },
+            "id": "1777278917981958596",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4982
+            },
+            "text": "RT @YahooNewsTopics: \u3010\u5b9f\u8cea\u8cc3\u91d123\u30ab\u6708\u9023\u7d9a\u30de\u30a4\u30ca\u30b9 \u6700\u9577\u3011\nhttps://t.co/ihbqWLDtDy"
+        },
+        {
+            "author_id": "1768705451355435008",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917864296498"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1627424723553468418",
+                        "start": 3,
+                        "username": "conf3rence"
+                    },
+                    {
+                        "end": 66,
+                        "id": "1057984132930789378",
+                        "start": 52,
+                        "username": "CryptoRank_io"
+                    }
+                ]
+            },
+            "id": "1777278917864296498",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 570
+            },
+            "text": "RT @conf3rence: Exciting news! We've partnered with @CryptoRank_io to bring you an exclusive #giveaway: 10 tickets to the upcoming #CONF3RE\u2026"
+        },
+        {
+            "author_id": "1402944659077308416",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917784863142"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "1097897763445108738",
+                        "start": 3,
+                        "username": "TimesAlgebraIND"
+                    },
+                    {
+                        "end": 69,
+                        "id": "1689559051729051648",
+                        "start": 60,
+                        "username": "shiuna_m"
+                    }
+                ]
+            },
+            "id": "1777278917784863142",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2253
+            },
+            "text": "RT @TimesAlgebraIND: BIG NEWS \ud83d\udea8 Suspended Maldives Minister @shiuna_m insults &amp; mocks Indian flag. She belongs to Muizzu's party.\n\nRecently\u2026"
+        },
+        {
+            "author_id": "252802682",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917742882978"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 8,
+                        "id": "119007496",
+                        "start": 0,
+                        "username": "NinnaSG"
+                    }
+                ]
+            },
+            "id": "1777278917742882978",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 2,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@NinnaSG Mitsubishi Electric is bringing the future to our homes with their innovative MSZ-AY and MSZ-EF series at the Ideal Home Show. Excited to transform my living space!"
+        },
+        {
+            "author_id": "1592808280841420801",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917545701679"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "155834003",
+                        "start": 3,
+                        "username": "TOWER_Online"
+                    }
+                ]
+            },
+            "id": "1777278917545701679",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 443
+            },
+            "text": "RT @TOWER_Online: 4\u670812\u65e5\u653e\u9001\u300c\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\u300d\u3001Number_i\u3001NiziU\u3001LiSA\u3001Mrs. GREEN APPLE\u300120th Century\u3001WEST.\u3001ME:I\u3001Saucy Dog\u3001Omoinotake\u3001AKB48\u51fa\u6f14\n\n#M\u30b9\u30c6 #\u30df\u30e5\u2026"
+        },
+        {
+            "author_id": "1757104366173945856",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917209919970"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1757236970369998848",
+                        "start": 0,
+                        "username": "PatriciaMa67419"
+                    }
+                ]
+            },
+            "id": "1777278917209919970",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 0,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@PatriciaMa67419 \ud83d\udc53 \ud83c\udf0a 3391189211 \ud83d\udc2c \ud83c\udf02 \ud83d\uddd3 Value government century film explain. \ufe0f \ufe0f \ufe0f"
+        },
+        {
+            "author_id": "1671068178720653312",
+            "created_at": "2024-04-08T10:14:48.000Z",
+            "edit_history_tweet_ids": [
+                "1777278917079900188"
+            ],
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1344227968235622400",
+                        "start": 0,
+                        "username": "NFTNewsToday_"
+                    }
+                ]
+            },
+            "id": "1777278917079900188",
+            "public_metrics": {
+                "bookmark_count": 0,
+                "impression_count": 1,
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "@NFTNewsToday_ Upland Launches \u201cShare &amp; Build\u201d Airdrop Series At NFTNYC\n\nUpland, the mobile Web3 metaverse platform, has initiated its \u201cShare &amp; Build\u201d airdrop series at NFTNYC. This series aims to reward participants in Upland\u2019s Metaverse as they contribute to building the largest gaming\u2026 https://t.co/bNOHZJebFx https://t.co/5Lmj8VQVcd"
+        }
+    ],
+    "includes": {
+        "users": [
+            {
+                "description": "for the multitalented artist #\uc131\ud6c8 | fan account",
+                "id": "1456316081291730980",
+                "name": "\u2745",
+                "public_metrics": {
+                    "followers_count": 470,
+                    "following_count": 144,
+                    "like_count": 31770,
+                    "listed_count": 5,
+                    "tweet_count": 25924
+                },
+                "url": "https://t.co/0463iCT6IR",
+                "username": "shawaiiu",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "DICON ISSUE N\u00b019 : ENHYPEN",
+                "id": "1774804602829090816",
+                "name": "DICON_ENHYPEN",
+                "public_metrics": {
+                    "followers_count": 9341,
+                    "following_count": 2,
+                    "like_count": 0,
+                    "listed_count": 6,
+                    "tweet_count": 60
+                },
+                "url": "https://t.co/OscDfBEjti",
+                "username": "DICON_ENHYPEN",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "God & Family\u271d\ufe0f\ud83c\uddfa\ud83c\uddf8",
+                "id": "1455632137",
+                "name": "Jen",
+                "public_metrics": {
+                    "followers_count": 1000,
+                    "following_count": 1792,
+                    "like_count": 20556,
+                    "listed_count": 2,
+                    "tweet_count": 26442
+                },
+                "username": "JenjerbreadJen",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "\ud83d\udd4c \u26d3\ufe0f \ud83d\udea9The Embassy of Laughter \ud83e\udd27 \u26d3\ufe0fTiktok: craziest.moments6 \u26d3\ufe0f \u201cClass is a covetedly over-priced commodity, I verified the price tag \u201c\ud83c\udff7\ufe0f, ~ Dark Knight",
+                "id": "1400461557272748034",
+                "name": "Archangel, \u00c6 \u2658 \u2658 \u2658 \u2658 \ud835\udd4f",
+                "public_metrics": {
+                    "followers_count": 405,
+                    "following_count": 291,
+                    "like_count": 10281,
+                    "listed_count": 1,
+                    "tweet_count": 12192
+                },
+                "url": "https://t.co/79JQuRZCPo",
+                "username": "CrazyMemes100",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "@BTNNetwk Founder | domlucrebooking@gmail.com for Promo | Booking | Ads | Business | Don\u2019t forget you can subscribe to my X profile | NEW MERCHANDISE \u2b07\ufe0f",
+                "id": "3096147528",
+                "name": "Dom Lucre | Breaker of Narratives",
+                "public_metrics": {
+                    "followers_count": 1260225,
+                    "following_count": 4356,
+                    "like_count": 53320,
+                    "listed_count": 3570,
+                    "tweet_count": 24249
+                },
+                "url": "https://t.co/wnvnBWEMV0",
+                "username": "dom_lucre",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "terimalah cinta q\ud83d\ude18\ud83d\ude18 @treasuremembers \ud83d\udc8e",
+                "id": "1631932859677315073",
+                "name": "ntann\u2022jfb banhh!!",
+                "public_metrics": {
+                    "followers_count": 571,
+                    "following_count": 616,
+                    "like_count": 74640,
+                    "listed_count": 0,
+                    "tweet_count": 15509
+                },
+                "username": "jonguuyaa",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "\ud2b8\ub808\uc800 \uba54\uc778\ubcf4\uceec #\ubc15\uc815\uc6b0 #\u30d1\u30af\u30b8\u30e7\u30f3\u30a6 #PARKJEONGWOO",
+                "id": "1311951450918928384",
+                "name": "\ub9c8\uae30\u2661",
+                "public_metrics": {
+                    "followers_count": 79903,
+                    "following_count": 98,
+                    "like_count": 69034,
+                    "listed_count": 806,
+                    "tweet_count": 62685
+                },
+                "username": "iksanpjw",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "\u8da3\u5473\u7528\u3067\u3059\u3002",
+                "id": "1491616871883640843",
+                "name": "MALONCO",
+                "public_metrics": {
+                    "followers_count": 8,
+                    "following_count": 1,
+                    "like_count": 1498,
+                    "listed_count": 0,
+                    "tweet_count": 3094
+                },
+                "username": "MALONCODECHU",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "Yahoo!\u30cb\u30e5\u30fc\u30b9\u306e\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002365\u65e524\u6642\u9593\u3001Yahoo! JAPAN\u30c8\u30c3\u30d7\u30da\u30fc\u30b8\u306b\u63b2\u51fa\u3055\u308c\u308b\u8a71\u984c\u3092\u901f\u5831\u3067\u304a\u5c4a\u3051\u3002\u203b\u682a\u5f0f\u4f1a\u793e\u30a2\u30d5\u30ed\u793e\u63d0\u4f9b\u306e\u5199\u771f\u3092\u4f7f\u7528\u3057\u3066\u3044\u308b\u5834\u5408\u304c\u3042\u308a\u307e\u3059\u3002",
+                "id": "88846085",
+                "name": "Yahoo!\u30cb\u30e5\u30fc\u30b9",
+                "public_metrics": {
+                    "followers_count": 1682649,
+                    "following_count": 9,
+                    "like_count": 0,
+                    "listed_count": 21600,
+                    "tweet_count": 511490
+                },
+                "url": "https://t.co/PORT0VCtyG",
+                "username": "YahooNewsTopics",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "",
+                "id": "1768705451355435008",
+                "name": "Ruslan Sh \ud83d\udd79\ufe0f $RCADE",
+                "public_metrics": {
+                    "followers_count": 13,
+                    "following_count": 116,
+                    "like_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 118
+                },
+                "username": "Justfar007",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "Connecting the world through Web3!\n\nJoin us on 15-16 MAY 2024 at Signal Iduna Park, home of BVB, for an unforgettable Web3 & AI event!",
+                "id": "1627424723553468418",
+                "name": "CONF3RENCE",
+                "public_metrics": {
+                    "followers_count": 14170,
+                    "following_count": 167,
+                    "like_count": 347,
+                    "listed_count": 4,
+                    "tweet_count": 207
+                },
+                "url": "https://t.co/rWPOAPJVNQ",
+                "username": "conf3rence",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "Leading crypto industry research & analytics platform | Fundraising deals, token sales & unlocks, fund portfolios & launchpad ROI | Follow @CryptoRank_VCs",
+                "id": "1057984132930789378",
+                "name": "CryptoRank.io",
+                "public_metrics": {
+                    "followers_count": 214399,
+                    "following_count": 106,
+                    "like_count": 5873,
+                    "listed_count": 2424,
+                    "tweet_count": 8799
+                },
+                "url": "https://t.co/5KMTm7wkkR",
+                "username": "CryptoRank_io",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "Proud Hindu Sanatani",
+                "id": "1402944659077308416",
+                "name": "Ramesh Natarajan( Modiji's Family)",
+                "public_metrics": {
+                    "followers_count": 1038,
+                    "following_count": 1257,
+                    "like_count": 24994,
+                    "listed_count": 8,
+                    "tweet_count": 25704
+                },
+                "username": "RameshN70082886",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "News Updates || Political News || Geopolitical || Election Updates & Analysis",
+                "id": "1097897763445108738",
+                "name": "Times Algebra",
+                "public_metrics": {
+                    "followers_count": 309719,
+                    "following_count": 156,
+                    "like_count": 5344,
+                    "listed_count": 406,
+                    "tweet_count": 16730
+                },
+                "username": "TimesAlgebraIND",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "\ud83c\uddf2\ud83c\uddfb\ud83c\uddf5\ud83c\uddf8",
+                "id": "1689559051729051648",
+                "name": "Mariyam Shiuna",
+                "public_metrics": {
+                    "followers_count": 5871,
+                    "following_count": 503,
+                    "like_count": 14194,
+                    "listed_count": 3,
+                    "tweet_count": 10290
+                },
+                "username": "shiuna_m",
+                "verified": true,
+                "verified_type": "government"
+            },
+            {
+                "description": "",
+                "id": "252802682",
+                "name": "joseph",
+                "public_metrics": {
+                    "followers_count": 14,
+                    "following_count": 41,
+                    "like_count": 1452,
+                    "listed_count": 0,
+                    "tweet_count": 1178
+                },
+                "username": "josephmendoza",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "Cat mom. Yogi. Weekend wanderer. Sunshine lover",
+                "id": "119007496",
+                "name": "Nina Drachina",
+                "public_metrics": {
+                    "followers_count": 1853,
+                    "following_count": 41,
+                    "like_count": 1195,
+                    "listed_count": 0,
+                    "tweet_count": 1467
+                },
+                "username": "NinnaSG",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "",
+                "id": "1592808280841420801",
+                "name": "ai",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 70,
+                    "like_count": 4252,
+                    "listed_count": 0,
+                    "tweet_count": 744
+                },
+                "username": "az_ruriry",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "NO MUSIC, NO LIFE. \u30bf\u30ef\u30fc\u30ec\u30b3\u30fc\u30c9 \u30aa\u30f3\u30e9\u30a4\u30f3\u306e\u516c\u5f0f\u30a2\u30ab\u30a6\u30f3\u30c8\u3067\u3059\u3002\u4e16\u754c\u6709\u6570\u306e\u30ea\u30ea\u30fc\u30b9\u60c5\u5831\u91cf\u3001\u30bb\u30fc\u30eb\u3001\u30dd\u30a4\u30f3\u30c8\u30ad\u30e3\u30f3\u30da\u30fc\u30f3\u306a\u3069\u3001\u304a\u8cb7\u3044\u7269\u306b\u304a\u5f97\u306a\u60c5\u5831\u3092\u6700\u901f\u3067\u304a\u5c4a\u3051\uff01\u65b0\u898f\u767b\u9332\u3067\u30af\u30fc\u30dd\u30f3\u30d7\u30ec\u30bc\u30f3\u30c8\u4e2d\u266ahttps://t.co/ukjuId4NUk",
+                "id": "155834003",
+                "name": "\u30bf\u30ef\u30fc\u30ec\u30b3\u30fc\u30c9 \u30aa\u30f3\u30e9\u30a4\u30f3",
+                "public_metrics": {
+                    "followers_count": 117568,
+                    "following_count": 26079,
+                    "like_count": 11082,
+                    "listed_count": 1068,
+                    "tweet_count": 187264
+                },
+                "url": "https://t.co/AgJzWxs8I3",
+                "username": "TOWER_Online",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "",
+                "id": "1757104366173945856",
+                "name": "\u5f00\u4e91\u8db3\u7403\u53cc\u8d62\u5f69\u7968AG\u771f\u4eba\u5f00\u5143\u68cb\u724c\u5fb7\u5dde\u7535\u7ade\u8d5b\u8f66\u6b27\u5b9d\u5a01\u516d\u5408\u5f69\u5927\u53d1\u5357\u5bab\u4f53\u80b2\u535a\u5f69\u7070\u4ea7AV\u9ec4\u7247\u97e6\u5fb7\u4e07\u535a\u6c5f\u5357",
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 75,
+                    "like_count": 393,
+                    "listed_count": 0,
+                    "tweet_count": 351
+                },
+                "username": "AdrienneFu99303",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "",
+                "id": "1757236970369998848",
+                "name": "\u5f00\u4e91\u8db3\u7403\u53cc\u8d62\u5f69\u7968AG\u771f\u4eba\u5f00\u5143\u68cb\u724c\u5fb7\u5dde\u7535\u7ade\u8d5b\u8f66\u6b27\u5b9d\u5a01\u516d\u5408\u5f69\u5927\u53d1\u5357\u5bab\u4f53\u80b2\u535a\u5f69\u7070\u4ea7AV\u9ec4\u7247\u97e6\u5fb7\u4e07\u535a\u6c5f\u5357",
+                "public_metrics": {
+                    "followers_count": 92,
+                    "following_count": 47,
+                    "like_count": 169,
+                    "listed_count": 0,
+                    "tweet_count": 213
+                },
+                "username": "PatriciaMa67419",
+                "verified": false,
+                "verified_type": "none"
+            },
+            {
+                "description": "Reporting news related to NFT and Metaverse.\n\nProduct of CoinCrux (@Coin_Crux)",
+                "id": "1671068178720653312",
+                "name": "CRUXX | NFTs & Metaverse",
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 7,
+                    "like_count": 0,
+                    "listed_count": 0,
+                    "tweet_count": 1864
+                },
+                "username": "CRUXX_NFTs",
+                "verified": true,
+                "verified_type": "blue"
+            },
+            {
+                "description": "Follow us for the latest news from the NFT, Gaming, Metaverse, and Web3 space. Stay informed with daily updates!",
+                "id": "1344227968235622400",
+                "name": "NFT News Today",
+                "public_metrics": {
+                    "followers_count": 3517,
+                    "following_count": 104,
+                    "like_count": 676,
+                    "listed_count": 61,
+                    "tweet_count": 6618
+                },
+                "url": "https://t.co/DCp6RMSkv5",
+                "username": "NFTNewsToday_",
+                "verified": true,
+                "verified_type": "blue"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1777278918179078277",
+        "next_token": "b26v89c19zqg8o3fr5wf9n2jn2f68fmrktvsxqqecswot",
+        "oldest_id": "1777278917079900188",
+        "result_count": 10
+    }
+}
